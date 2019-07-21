@@ -1,0 +1,10 @@
+mqtt:
+    host: home.beine.hassio
+    port: 1883
+    user: windlogger
+    password: secret
+    topic: home/devices/windlogger
+    qos: 1
+    retain: true
+windlogger:
+    device: /dev/ttyUSB0

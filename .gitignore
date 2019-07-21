@@ -1,0 +1,8 @@
+__pycache__
+bin
+lib
+windlogger2mqtt.bbprojectd
+pip-selfcheck.json
+pyvenv.cfg
+windlogger2mqtt/windlogger2mqtt.egg-info
+windlogger2mqtt.yaml
